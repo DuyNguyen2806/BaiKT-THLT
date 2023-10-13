@@ -1,0 +1,15 @@
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\NguyenQuocDuy_8274\De01\bin\Debug\De01.exe.config
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\NguyenQuocDuy_8274\De01\bin\Debug\De01.exe
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\NguyenQuocDuy_8274\De01\bin\Debug\De01.pdb
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\NguyenQuocDuy_8274\De01\bin\Debug\EntityFramework.dll
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\NguyenQuocDuy_8274\De01\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\NguyenQuocDuy_8274\De01\bin\Debug\EntityFramework.xml
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\NguyenQuocDuy_8274\De01\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\NguyenQuocDuy_8274\De01\obj\Debug\De01.csproj.AssemblyReference.cache
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\NguyenQuocDuy_8274\De01\obj\Debug\De01.Form1.resources
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\NguyenQuocDuy_8274\De01\obj\Debug\De01.Properties.Resources.resources
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\NguyenQuocDuy_8274\De01\obj\Debug\De01.csproj.GenerateResource.cache
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\NguyenQuocDuy_8274\De01\obj\Debug\De01.csproj.CoreCompileInputs.cache
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\NguyenQuocDuy_8274\De01\obj\Debug\De01.csproj.CopyComplete
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\NguyenQuocDuy_8274\De01\obj\Debug\De01.exe
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\NguyenQuocDuy_8274\De01\obj\Debug\De01.pdb
